@@ -1,4 +1,4 @@
-package org.study.algorithm;
+package org.study.algorithm.BFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BFS {
+public class NodeBFS {
   static int node;
   static int edgeCount;
   static int startNode;
