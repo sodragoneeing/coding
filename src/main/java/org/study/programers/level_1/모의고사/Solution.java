@@ -1,4 +1,4 @@
-package org.study.programers.level_1.mockTest;
+package org.study.programers.level_1.모의고사;
 
 import java.util.ArrayList;
 import java.util.Collections;

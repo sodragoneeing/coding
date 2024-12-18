@@ -1,4 +1,4 @@
-package org.study.programers.level_1.minimumSqure;
+package org.study.programers.level_1.최소직사각형;
 
 class Solution {
   public int solution(int[][] sizes) {

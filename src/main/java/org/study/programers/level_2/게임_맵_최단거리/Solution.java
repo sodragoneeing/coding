@@ -1,4 +1,4 @@
-package org.study.programers.level_2.gameMapShortestPath;
+package org.study.programers.level_2.게임_맵_최단거리;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package org.study.algorithm;
+package org.study.algorithm.소수;
 
 import java.io.IOException;
 import java.util.Scanner;

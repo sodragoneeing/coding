@@ -1,4 +1,4 @@
-package org.study.programers.level_2.targetNumber;
+package org.study.programers.level_2.타겟_넘버;
 
 import java.util.ArrayList;
 import java.util.List;

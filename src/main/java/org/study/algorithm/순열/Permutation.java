@@ -1,4 +1,4 @@
-package org.study.algorithm;
+package org.study.algorithm.순열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

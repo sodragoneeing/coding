@@ -1,8 +1,4 @@
-package org.study.programers.level_3.network;
-
-import java.util.ArrayList;
-import java.util.List;
-import jdk.jshell.spi.ExecutionControlProvider;
+package org.study.programers.level_3.네트워크;
 
 class Solution {
 

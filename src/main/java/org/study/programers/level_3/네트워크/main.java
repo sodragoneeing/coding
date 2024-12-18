@@ -1,4 +1,4 @@
-package org.study.programers.level_3.network;
+package org.study.programers.level_3.네트워크;
 
 public class main {
   public static void main(String[] args) {

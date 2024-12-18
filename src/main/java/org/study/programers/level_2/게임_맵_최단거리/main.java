@@ -1,4 +1,4 @@
-package org.study.programers.level_2.gameMapShortestPath;
+package org.study.programers.level_2.게임_맵_최단거리;
 
 public class main {
   public static void main(String[] args) {

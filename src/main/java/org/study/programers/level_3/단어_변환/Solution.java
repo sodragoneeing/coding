@@ -1,4 +1,4 @@
-package org.study.programers.level_3.wordConvert;
+package org.study.programers.level_3.단어_변환;
 
 import java.util.LinkedList;
 import java.util.Queue;
